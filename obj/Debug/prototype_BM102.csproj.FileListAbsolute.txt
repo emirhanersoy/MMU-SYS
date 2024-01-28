@@ -1,0 +1,346 @@
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\bin\Debug\prototype_BM102.exe.config
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\bin\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\bin\Debug\prototype_BM102.pdb
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype_BM102\obj\Debug\prototype_BM102.pdb
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\bin\Debug\prototype_BM102.exe.config
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\bin\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\bin\Debug\prototype_BM102.pdb
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype2_BM102\obj\Debug\prototype_BM102.pdb
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\bin\Debug\InventoryDB.mdf
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\bin\Debug\InventoryDB_log.ldf
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\bin\Debug\prototype_BM102.exe.config
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\bin\Debug\prototype_BM102.exe.manifest
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\bin\Debug\prototype_BM102.application
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\bin\Debug\prototype_BM102.exe
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\bin\Debug\prototype_BM102.pdb
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.exe.manifest
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.application
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.exe
+C:\Users\emref\Downloads\prototype3_BM102\prototype1_BM102\obj\Debug\prototype_BM102.pdb
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\bin\Debug\InventoryDB.mdf
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\bin\Debug\InventoryDB_log.ldf
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\bin\Debug\prototype_BM102.exe.config
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\bin\Debug\prototype_BM102.exe.manifest
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\bin\Debug\prototype_BM102.application
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\bin\Debug\prototype_BM102.exe
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\bin\Debug\prototype_BM102.pdb
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.exe.manifest
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.application
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.exe
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.pdb
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.FormOrders.resources
+C:\Users\emref\OneDrive\Masaüstü\SSSQQQLLL\prototype1_BM102\obj\Debug\prototype_BM102.FormAddOrder.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.FormAddOrder.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.FormOrders.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\bin\Debug\InventoryDB.mdf
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\bin\Debug\InventoryDB_log.ldf
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\bin\Debug\prototype_BM102.exe.config
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\bin\Debug\prototype_BM102.exe.manifest
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\bin\Debug\prototype_BM102.application
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\bin\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\bin\Debug\prototype_BM102.pdb
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.exe.manifest
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.application
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype1_BM102\obj\Debug\prototype_BM102.pdb
+C:\Users\emref\OneDrive\Masaüstü\catecate\bin\Debug\InventoryDB.mdf
+C:\Users\emref\OneDrive\Masaüstü\catecate\bin\Debug\InventoryDB_log.ldf
+C:\Users\emref\OneDrive\Masaüstü\catecate\bin\Debug\prototype_BM102.exe.config
+C:\Users\emref\OneDrive\Masaüstü\catecate\bin\Debug\prototype_BM102.exe.manifest
+C:\Users\emref\OneDrive\Masaüstü\catecate\bin\Debug\prototype_BM102.application
+C:\Users\emref\OneDrive\Masaüstü\catecate\bin\Debug\prototype_BM102.exe
+C:\Users\emref\OneDrive\Masaüstü\catecate\bin\Debug\prototype_BM102.pdb
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.FormAddOrder.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.FormOrders.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.exe.manifest
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.application
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.exe
+C:\Users\emref\OneDrive\Masaüstü\catecate\obj\Debug\prototype_BM102.pdb
+C:\Users\Yusuf Emre\Downloads\catecate\bin\Debug\InventoryDB.mdf
+C:\Users\Yusuf Emre\Downloads\catecate\bin\Debug\InventoryDB_log.ldf
+C:\Users\Yusuf Emre\Downloads\catecate\bin\Debug\prototype_BM102.exe.config
+C:\Users\Yusuf Emre\Downloads\catecate\bin\Debug\prototype_BM102.exe.manifest
+C:\Users\Yusuf Emre\Downloads\catecate\bin\Debug\prototype_BM102.application
+C:\Users\Yusuf Emre\Downloads\catecate\bin\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\catecate\bin\Debug\prototype_BM102.pdb
+C:\Users\Yusuf Emre\Downloads\catecate\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Yusuf Emre\Downloads\catecate\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.FormAddOrder.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.FormOrders.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.exe.licenses
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.exe.manifest
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.application
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.csproj.CopyComplete
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\catecate\obj\Debug\prototype_BM102.pdb
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\bin\Debug\InventoryDB.mdf
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\bin\Debug\InventoryDB_log.ldf
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\bin\Debug\prototype_BM102.exe.config
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\bin\Debug\prototype_BM102.exe.manifest
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\bin\Debug\prototype_BM102.application
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\bin\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\bin\Debug\prototype_BM102.pdb
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.FormAddOrder.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.FormOrders.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.exe.licenses
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.exe.manifest
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.application
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.csproj.CopyComplete
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype_MUM\obj\Debug\prototype_BM102.pdb
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\bin\Debug\InventoryDB.mdf
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\bin\Debug\InventoryDB_log.ldf
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\bin\Debug\prototype_BM102.exe.config
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\bin\Debug\prototype_BM102.exe.manifest
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\bin\Debug\prototype_BM102.application
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\bin\Debug\prototype_BM102.exe
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\bin\Debug\prototype_BM102.pdb
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\bin\Debug\Bunifu.Licensing.dll
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormAddOrder.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormOrders.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.exe.licenses
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.exe.manifest
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.application
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.csproj.CopyComplete
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.exe
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.pdb
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormEditProduct.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype7_MMU-20230527T185641Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormEditUser.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\bin\Debug\InventoryDB.mdf
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\bin\Debug\InventoryDB_log.ldf
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\bin\Debug\prototype_BM102.exe.config
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\bin\Debug\prototype_BM102.exe.manifest
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\bin\Debug\prototype_BM102.application
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\bin\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\bin\Debug\prototype_BM102.pdb
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormAddOrder.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormEditProduct.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormEditUser.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormOrders.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.exe.licenses
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.exe.manifest
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.application
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.csproj.CopyComplete
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype7_MMU\obj\Debug\prototype_BM102.pdb
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\bin\Debug\InventoryDB.mdf
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\bin\Debug\InventoryDB_log.ldf
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\bin\Debug\prototype_BM102.exe.config
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\bin\Debug\prototype_BM102.exe.manifest
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\bin\Debug\prototype_BM102.application
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\bin\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\bin\Debug\prototype_BM102.pdb
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormAddOrder.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormEditProduct.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormEditUser.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormOrders.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.exe.licenses
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.exe.manifest
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.application
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.csproj.CopyComplete
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.exe
+C:\Users\Yusuf Emre\Downloads\prototype7_MMU-20230529T180059Z-001\prototype8_MMU\obj\Debug\prototype_BM102.pdb
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\bin\Debug\InventoryDB.mdf
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\bin\Debug\InventoryDB_log.ldf
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\bin\Debug\prototype_BM102.exe.config
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\bin\Debug\prototype_BM102.exe.manifest
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\bin\Debug\prototype_BM102.application
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\bin\Debug\prototype_BM102.exe
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\bin\Debug\prototype_BM102.pdb
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\bin\Debug\Bunifu.Licensing.dll
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.csproj.AssemblyReference.cache
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.csproj.SuggestedBindingRedirects.cache
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormAddCategory.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormAddOrder.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormAddProduct.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormAddUser.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormCategories.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormEditProduct.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormEditUser.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormOrders.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormProducts.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.FormUsers.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.Form_Login.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.Form_Main.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.imagecontrol.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.panelDrag.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.Properties.Resources.resources
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.csproj.GenerateResource.cache
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.exe.licenses
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.csproj.CoreCompileInputs.cache
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.exe.manifest
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.application
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.csproj.CopyComplete
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.exe
+C:\Users\emref\OneDrive\Masaüstü\prototype8_MMU-20230530T153353Z-001\prototype8_MMU\obj\Debug\prototype_BM102.pdb

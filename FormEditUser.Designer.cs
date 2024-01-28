@@ -1,0 +1,201 @@
+﻿namespace prototype_BM102
+{
+    partial class FormEditUser
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormEditUser));
+            this.imagecontrolClose = new prototype_BM102.imagecontrol();
+            this.pictureBoxHidePw = new System.Windows.Forms.PictureBox();
+            this.panelDrag1 = new prototype_BM102.panelDrag();
+            this.textBoxFullname = new System.Windows.Forms.TextBox();
+            this.textBoxUsername = new System.Windows.Forms.TextBox();
+            this.buttonLogin = new System.Windows.Forms.Button();
+            this.labelClear = new System.Windows.Forms.Label();
+            this.textBoxPhone = new System.Windows.Forms.TextBox();
+            this.textBoxPassword = new System.Windows.Forms.TextBox();
+            ((System.ComponentModel.ISupportInitialize)(this.imagecontrolClose)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxHidePw)).BeginInit();
+            this.panelDrag1.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // imagecontrolClose
+            // 
+            this.imagecontrolClose.BackColor = System.Drawing.Color.Transparent;
+            this.imagecontrolClose.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.imagecontrolClose.Image = global::prototype_BM102.Properties.Resources.cancel;
+            this.imagecontrolClose.ImageHover = global::prototype_BM102.Properties.Resources.kapatma_hover;
+            this.imagecontrolClose.ImageNormal = global::prototype_BM102.Properties.Resources.cancel;
+            this.imagecontrolClose.Location = new System.Drawing.Point(658, 46);
+            this.imagecontrolClose.Margin = new System.Windows.Forms.Padding(2);
+            this.imagecontrolClose.Name = "imagecontrolClose";
+            this.imagecontrolClose.Size = new System.Drawing.Size(40, 40);
+            this.imagecontrolClose.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.imagecontrolClose.TabIndex = 17;
+            this.imagecontrolClose.TabStop = false;
+            this.imagecontrolClose.Click += new System.EventHandler(this.imagecontrolClose_Click_1);
+            // 
+            // pictureBoxHidePw
+            // 
+            this.pictureBoxHidePw.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBoxHidePw.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.pictureBoxHidePw.Image = global::prototype_BM102.Properties.Resources.hide;
+            this.pictureBoxHidePw.Location = new System.Drawing.Point(589, 211);
+            this.pictureBoxHidePw.Margin = new System.Windows.Forms.Padding(2);
+            this.pictureBoxHidePw.Name = "pictureBoxHidePw";
+            this.pictureBoxHidePw.Size = new System.Drawing.Size(30, 30);
+            this.pictureBoxHidePw.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxHidePw.TabIndex = 22;
+            this.pictureBoxHidePw.TabStop = false;
+            this.pictureBoxHidePw.Click += new System.EventHandler(this.pictureBoxHidePw_Click_1);
+            // 
+            // panelDrag1
+            // 
+            this.panelDrag1.BackColor = System.Drawing.Color.Transparent;
+            this.panelDrag1.Controls.Add(this.imagecontrolClose);
+            this.panelDrag1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panelDrag1.Location = new System.Drawing.Point(0, 0);
+            this.panelDrag1.Margin = new System.Windows.Forms.Padding(2);
+            this.panelDrag1.Name = "panelDrag1";
+            this.panelDrag1.Size = new System.Drawing.Size(700, 93);
+            this.panelDrag1.TabIndex = 21;
+            // 
+            // textBoxFullname
+            // 
+            this.textBoxFullname.BackColor = System.Drawing.Color.LightGray;
+            this.textBoxFullname.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBoxFullname.Location = new System.Drawing.Point(281, 174);
+            this.textBoxFullname.Margin = new System.Windows.Forms.Padding(2);
+            this.textBoxFullname.Name = "textBoxFullname";
+            this.textBoxFullname.Size = new System.Drawing.Size(288, 15);
+            this.textBoxFullname.TabIndex = 1;
+            // 
+            // textBoxUsername
+            // 
+            this.textBoxUsername.BackColor = System.Drawing.Color.LightGray;
+            this.textBoxUsername.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBoxUsername.Location = new System.Drawing.Point(281, 128);
+            this.textBoxUsername.Margin = new System.Windows.Forms.Padding(2);
+            this.textBoxUsername.Name = "textBoxUsername";
+            this.textBoxUsername.Size = new System.Drawing.Size(288, 15);
+            this.textBoxUsername.TabIndex = 0;
+            // 
+            // buttonLogin
+            // 
+            this.buttonLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.buttonLogin.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.buttonLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonLogin.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonLogin.Location = new System.Drawing.Point(261, 321);
+            this.buttonLogin.Margin = new System.Windows.Forms.Padding(2);
+            this.buttonLogin.Name = "buttonLogin";
+            this.buttonLogin.Size = new System.Drawing.Size(175, 58);
+            this.buttonLogin.TabIndex = 4;
+            this.buttonLogin.Text = "Düzenle";
+            this.buttonLogin.UseVisualStyleBackColor = false;
+            this.buttonLogin.Click += new System.EventHandler(this.buttonLogin_Click_1);
+            // 
+            // labelClear
+            // 
+            this.labelClear.AutoSize = true;
+            this.labelClear.BackColor = System.Drawing.Color.Transparent;
+            this.labelClear.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.labelClear.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.labelClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelClear.ForeColor = System.Drawing.Color.Black;
+            this.labelClear.Location = new System.Drawing.Point(512, 321);
+            this.labelClear.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.labelClear.Name = "labelClear";
+            this.labelClear.Size = new System.Drawing.Size(70, 22);
+            this.labelClear.TabIndex = 17;
+            this.labelClear.Text = "Temizle";
+            this.labelClear.Click += new System.EventHandler(this.labelClear_Click_1);
+            // 
+            // textBoxPhone
+            // 
+            this.textBoxPhone.BackColor = System.Drawing.Color.LightGray;
+            this.textBoxPhone.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBoxPhone.Location = new System.Drawing.Point(281, 264);
+            this.textBoxPhone.Margin = new System.Windows.Forms.Padding(2);
+            this.textBoxPhone.Name = "textBoxPhone";
+            this.textBoxPhone.Size = new System.Drawing.Size(288, 15);
+            this.textBoxPhone.TabIndex = 3;
+            // 
+            // textBoxPassword
+            // 
+            this.textBoxPassword.BackColor = System.Drawing.Color.LightGray;
+            this.textBoxPassword.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBoxPassword.Location = new System.Drawing.Point(281, 219);
+            this.textBoxPassword.Margin = new System.Windows.Forms.Padding(2);
+            this.textBoxPassword.Name = "textBoxPassword";
+            this.textBoxPassword.Size = new System.Drawing.Size(288, 15);
+            this.textBoxPassword.TabIndex = 2;
+            this.textBoxPassword.UseSystemPasswordChar = true;
+            // 
+            // FormEditUser
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
+            this.BackgroundImage = global::prototype_BM102.Properties.Resources.kullanıcıduzenle;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.ClientSize = new System.Drawing.Size(700, 400);
+            this.Controls.Add(this.pictureBoxHidePw);
+            this.Controls.Add(this.panelDrag1);
+            this.Controls.Add(this.textBoxFullname);
+            this.Controls.Add(this.textBoxUsername);
+            this.Controls.Add(this.buttonLogin);
+            this.Controls.Add(this.labelClear);
+            this.Controls.Add(this.textBoxPhone);
+            this.Controls.Add(this.textBoxPassword);
+            this.DoubleBuffered = true;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(2);
+            this.Name = "FormEditUser";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "SYS";
+            ((System.ComponentModel.ISupportInitialize)(this.imagecontrolClose)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxHidePw)).EndInit();
+            this.panelDrag1.ResumeLayout(false);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private imagecontrol imagecontrolClose;
+        private System.Windows.Forms.PictureBox pictureBoxHidePw;
+        private panelDrag panelDrag1;
+        private System.Windows.Forms.TextBox textBoxFullname;
+        private System.Windows.Forms.Button buttonLogin;
+        private System.Windows.Forms.Label labelClear;
+        private System.Windows.Forms.TextBox textBoxPhone;
+        private System.Windows.Forms.TextBox textBoxPassword;
+        private System.Windows.Forms.TextBox textBoxUsername;
+    }
+}
